@@ -1,7 +1,6 @@
 # if you find any bugs report it at Github user issues
 # Still in development
 # Support win7 to win10（20h1）
-# A new debugging engine is added, which can debug some games with driver protection
 ## You can contact me at https://t.me/xxxantws
 
 
