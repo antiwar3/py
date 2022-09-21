@@ -1,6 +1,6 @@
 # if you find any bugs report it at Github user issues
 # Still in development
-# Support win7 to win10（20h1）
+# Support win7 to win11（21h2）
 
 
 
